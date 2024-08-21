@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Demos_Dotnet\\C#\\WebAPIs\\BurgerMania_FullFledgedBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDDE6DC-85A5-41F4-8CB5-CE5C380E244D}|BurgerMania.csproj|c:\\demos_dotnet\\c#\\webapis\\burgermania_fullfledgedbackend\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDDE6DC-85A5-41F4-8CB5-CE5C380E244D}|BurgerMania.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDDE6DC-85A5-41F4-8CB5-CE5C380E244D}|BurgerMania.csproj|c:\\demos_dotnet\\c#\\webapis\\burgermania_fullfledgedbackend\\controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDDE6DC-85A5-41F4-8CB5-CE5C380E244D}|BurgerMania.csproj|solutionrelative:controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDDE6DC-85A5-41F4-8CB5-CE5C380E244D}|BurgerMania.csproj|c:\\demos_dotnet\\c#\\webapis\\burgermania_fullfledgedbackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDDE6DC-85A5-41F4-8CB5-CE5C380E244D}|BurgerMania.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDDE6DC-85A5-41F4-8CB5-CE5C380E244D}|BurgerMania.csproj|c:\\demos_dotnet\\c#\\webapis\\burgermania_fullfledgedbackend\\controllers\\burgercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDDE6DC-85A5-41F4-8CB5-CE5C380E244D}|BurgerMania.csproj|solutionrelative:controllers\\burgercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Demos_Dotnet\\C#\\WebAPIs\\BurgerMania_FullFledgedBackend\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Demos_Dotnet\\C#\\WebAPIs\\BurgerMania_FullFledgedBackend\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAM4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:39:31.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Demos_Dotnet\\C#\\WebAPIs\\BurgerMania_FullFledgedBackend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Demos_Dotnet\\C#\\WebAPIs\\BurgerMania_FullFledgedBackend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAIwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T14:56:31.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderItemController.cs",
+              "DocumentMoniker": "C:\\Demos_Dotnet\\C#\\WebAPIs\\BurgerMania_FullFledgedBackend\\Controllers\\OrderItemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderItemController.cs",
+              "ToolTip": "C:\\Demos_Dotnet\\C#\\WebAPIs\\BurgerMania_FullFledgedBackend\\Controllers\\OrderItemController.cs",
+              "RelativeToolTip": "Controllers\\OrderItemController.cs",
+              "ViewState": "AQIAANoAAAAAAAAAAAAiwEIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T14:40:53.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BurgerController.cs",
+              "DocumentMoniker": "C:\\Demos_Dotnet\\C#\\WebAPIs\\BurgerMania_FullFledgedBackend\\Controllers\\BurgerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BurgerController.cs",
+              "ToolTip": "C:\\Demos_Dotnet\\C#\\WebAPIs\\BurgerMania_FullFledgedBackend\\Controllers\\BurgerController.cs",
+              "RelativeToolTip": "Controllers\\BurgerController.cs",
+              "ViewState": "AQIAALgAAAAAAAAAAAAowMoAAAChAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T14:36:46.192Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
